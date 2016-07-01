@@ -7,6 +7,7 @@ import sys
 sys.path.insert(0, "lib")
 from shapemodel import shapepose
 
+sys.path.insert(0, "sample")
 from readModel import ReadModel
 import camera
 from renderer import Renderer
