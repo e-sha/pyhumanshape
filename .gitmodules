@@ -1,0 +1,3 @@
+[submodule "3dParty/humanshape"]
+	path = 3dParty/humanshape
+	url = https://github.com/leonid-pishchulin/humanshape.git
