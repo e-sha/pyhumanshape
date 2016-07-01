@@ -11,6 +11,6 @@ It's a simple python adapter for [humanshape project](https://github.com/leonid-
 1. Download submodules
 `git submodule init && git submodule update`
 1. Build project
-`cd build && cmake ../ && make && cd ../`
+`mkdir build && cd build && cmake ../ && make && cd ../`
 1. Run demo
 `python demo.py`
